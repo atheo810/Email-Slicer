@@ -10,5 +10,5 @@ def main():
     print("Username: ", username)
     print("Domain: ", domain)
     print("Extention", extention)
-
-main()
+while True:
+    main()
