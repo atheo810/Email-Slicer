@@ -10,5 +10,6 @@ def main():
     print("Username: ", username)
     print("Domain: ", domain)
     print("Extention", extention)
+
 while True:
     main()
